@@ -1,0 +1,14 @@
+{
+  "domains": [
+    "apple.com.",
+    "aws.com.",
+    "amazon.com.",
+    "awsstatic.com.",
+    "omtrdc.net.",
+    "gstatic.com",
+    "claude.ai",
+    "anthropic.com.",
+    "indeed.com",
+    "cloudfront.net"
+  ]
+}
