@@ -5,10 +5,12 @@
     "amazon.com.",
     "awsstatic.com.",
     "omtrdc.net.",
-    "gstatic.com",
-    "claude.ai",
+    "gstatic.com.",
+    "claude.ai.",
     "anthropic.com.",
-    "indeed.com",
-    "cloudfront.net"
+    "indeed.com.",
+    "cloudfront.net.",
+    "website-files.com.",
+    "googletagmanager.com."
   ]
 }
