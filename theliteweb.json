@@ -1,6 +1,8 @@
 {
   "domains": [
     "apple.com.",
+    "apple-dns.net.",
+    "apple-cloudkit.com.",
     "aws.com.",
     "amazon.com.",
     "awsstatic.com.",
@@ -12,9 +14,19 @@
     "cloudfront.net.",
     "website-files.com.",
     "googletagmanager.com.",
+    "googleapis.com.",
     "cloudflare.com.",
+    "cloudflare-dns.com.",
     "amazonaws.com.",
     "pluto.tv.",
-    "oaiusercontent.com."
+    "oaiusercontent.com.",
+    "bitdefender.net.",
+    "icloud.com.",
+    "zoom.us.",
+    "zoomconnector.com.",
+    "adobe.io.",
+    "vscode-cdn.net.",
+    "whatsapp.net.",
+    "signal.org."
   ]
 }
